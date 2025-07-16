@@ -29,7 +29,7 @@ const Highlights = () => {
 
           <div className="flex flex-wrap items-end gap-5">
             <a
-              href="https://www.youtube.com/watch?v=xqyUdNxWazA&pp=ygUZaXBob25lIDE1IHBybyBtYXggdHJhaWxlcg%3D%3D"
+              href="https://youtu.be/keYat4iSYAQ?si=kk3LVnts2Juh0wev"
               target="blank"
               className="link"
             >
@@ -37,7 +37,7 @@ const Highlights = () => {
               <img src={watchImg} alt="watch" className="ml-2" />
             </a>
             <a
-              href="https://www.youtube.com/watch?v=ZiP1l7jlIIA&pp=ygUXaXBob25lIDE1IHBybyBtYXggZXZlbnQ%3D"
+              href="https://www.youtube.com/live/ZiP1l7jlIIA?si=UuJ_YneGENJ2CAWh"
               target="blank"
               className="link"
             >
